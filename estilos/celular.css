@@ -41,3 +41,7 @@ section div#login{
     padding: 10px;
 
 }
+div#login >h1{
+    text-align: center;
+    margin-bottom: 15px;
+}
