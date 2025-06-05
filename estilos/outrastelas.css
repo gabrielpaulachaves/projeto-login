@@ -6,6 +6,7 @@
     }
     section{
         width: 80vw;
+        height: 350px;
     }
     section div#imagem{
             float: left;
@@ -23,6 +24,7 @@
     }
     section{
         width: 920px;
+        height: 500px;
     }
     section div#imagem{
         float: right;
